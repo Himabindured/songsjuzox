@@ -1,0 +1,85 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "Kurchi Madathapetti",
+        "album": "Guntur karam",
+        "duration": "3:43",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Xb1Y4_5y2_Lwdu3zMgr-ov5o45zZqQqX_R-7HhfFag&s",
+        "Audio":"https://himabindured.github.io/songsjuzox/Kurchi%20Madathapetti.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Ela Ela",
+        "album": "Panja",
+        "duration": "5:07",
+        "image":"https://i.ytimg.com/vi/XJNEG2wScbc/hq2.jpg?sqp=-oaymwEYCKACEOgCSFryq4qpAwoIARUAAIhC0AEB&rs=AOn4CLDxV4r-9Ck9rYzRyAH8XtcwENHYYw",
+        "Audio":"https://himabindured.github.io/songsjuzox/Ela%20Ela%20song.mp3",
+        
+      },
+      {
+        "id": 3,
+        "title": "Priya Mithunam",
+        "album": "Adipurush",
+        "duration": "3:21",
+        "image":"https://pbs.twimg.com/media/Fy84p--XgAM7c26.jpg:large",
+        "Audio":"https://himabindured.github.io/songsjuzox/Priya%20Mithunam%20song.mp3"
+      },
+      {
+        "id": 4,
+        "title": "Ekadantaya vakratundaya",
+        "duration": "6.45",
+        "image":"https://c.saavncdn.com/266/Ek-Dantaya-Vakratundaya-Sanskrit-2020-20200826150113-500x500.jpg",
+        "Audio":"https://himabindured.github.io/songsjuzox/Ekadantaya%20Vakratundaya%20song.mp3"
+      },
+      {
+        "id": 5,
+        "title": "Anuvanuvuu",
+        "album": "Om Bheem Bhush",
+        "duration": "3.31",
+        "image":"https://c.saavncdn.com/000/Om-Bheem-Bush-Telugu-2024-20240401231417-500x500.jpg",
+        "Audio":"https://himabindured.github.io/songsjuzox/Anuvanuvvu%20song.mp3"
+      },
+      {
+        "id": 6,
+        "title": "Prema Desham",
+        "album": "Shakthi",
+        "duration": "4:36",
+        "image":"https://i.scdn.co/image/ab67616d0000b273cf4d3e31410c8cff6c83d52a",
+        "Audio":"https://himabindured.github.io/songsjuzox/Prema%20Desham%20song.mp3"
+      },
+      {
+        "id": 7,
+        "title": "Meghaalu Lekunna",
+        "album": "Kumari 21F",
+        "duration": "5:00",
+        "image":"https://i.ytimg.com/vi/wEAJzvJbFtw/sddefault.jpg",
+        "Audio":"https://himabindured.github.io/songsjuzox/Meghaalu%20Lekunna%20-%20SenSongsmp3.Co.mp3"
+      },
+      {
+        "id": 8,
+        "title": "Made in Andhra Student",
+        "album": "Thammudu",
+        "duration": "6:58",
+        "image":"https://img.wynk.in/unsafe/200x200/filters:no_upscale():strip_exif():format(jpg)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_adityamusic_INA090209113.jpg",
+        "Audio":"https://himabindured.github.io/songsjuzox/Made%20In%20Andhra%20Student-SenSongsMp3.Co.mp3"
+      },
+      {
+        "id": 9,
+        "title": "Nalla Nallani pilla",
+        "album": "Sye",
+        "duration": "4:13",
+        "image":"https://a10.gaanacdn.com/gn_img/albums/ogNWkLDbmX/gNWkxqq7bm/size_m.webp",
+        "Audio":"https://himabindured.github.io/songsjuzox/Nalla%20Nallani%20pilla%20song.mp3"
+      },
+      {
+        "id": 10,
+        "title": "Saami Saami",
+        "album": "Pushpa-The Rise",
+        "duration": "3:53",
+        "image":"https://i.scdn.co/image/ab67616d0000b27340ed2429b33f173ea6346287",
+        "Audio":"https://himabindured.github.io/songsjuzox/Saami%20Saami%20song.mp3"
+      }
+    ]
+  }
+  
